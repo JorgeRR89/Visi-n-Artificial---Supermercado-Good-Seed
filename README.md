@@ -1,4 +1,4 @@
-# Visi-n-Artificial---Supermercado-Good-Seed
+# Vision-Artificial---Supermercado-Good-Seed
 Computer vision project for age estimation using deep learning (ResNet50) to support legal age verification in retail environments.
 
 This project explores the use of computer vision and deep learning to estimate a person’s age from facial images.
